@@ -19,7 +19,7 @@ I have a background in childhood development and special needs; therefore, I've 
 analyze situations, consider different scenarios, and act quickly. I have also acquired the ability to stay calm and positive 
 so that I, along with the team, could achieve the goals we had set, even though the path we were 
 on wasn't as smooth.
-My Jornuey as a data analyst began a year ago, when I decided I wantet to challenge my self and learn new skills. Right about 
-that time, Coursera came out with the "data analyst certificate", which I had complited. From there, i discovered the world of QUERY and coding.
+My Jornuey as a data analyst began a year ago, when I decided I wanted to challenge my self and learn new skills. Right about 
+that time, Coursera came out with the "data analyst certificate", which I had successfully complited. From there, i discovered the world of QUERY and coding.
 To be honest, it was quite challenging to master SQL, but now, I enjoy looking at database, writing query to learn more about my data,
 putting clues together and end with a stunning viz that will show my founding and my prospectives.
